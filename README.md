@@ -25,7 +25,7 @@ O dataset contém as seguintes features:
 ## Vamos fazer mais algumas análises estatísticas, para isso vamos olhar um mapa de calor com as correlações entre as features, e vamos demonstrar algumas delas através de gráficos
 
 <div align="center">
-<img src="![image](https://github.com/inesarruda/Logistic_Regression/assets/112672449/b4ec493a-7dba-4e05-9ac3-2af38281731a)" width="400px" />
+<img src="![baixados](https://github.com/inesarruda/Logistic_Regression/assets/112672449/4e7df0a7-bdcf-466a-a2c7-3f8df9a2dce4)" width="400px" />
 </div>
 
 ### Vimos também que idade e uso de internet tem uma correlação negativa, ou seja, quanto menor a idade mais internet se usa diariamente e vice-versa.
